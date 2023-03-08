@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#808379",
+        "titleBar.activeForeground": "#F9FBF4"
+    },
+    "cSpell.words": [
+        "Actix"
+    ]
+}
